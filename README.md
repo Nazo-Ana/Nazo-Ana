@@ -1,13 +1,13 @@
 # Nazia Zazai
 
-**Software engineering student and future founder, bringing a teaching background to building software.**
+**Software engineering student, bringing a teaching background to building software.**
 
 ## About
 
 - Software Engineering student at the American University of Afghanistan (AUAF).
 - Online manager at Change English Language Center (CELC), an English language institute in Afghanistan.
 - Former English educator with a strong interest in business and marketing.
-- Working in English, Pashto, and Dari. Goal: found a software company within 24 months.
+- Working in English, Pashto, and Dari. Goal: found a software company.
 
 ## Projects
 
