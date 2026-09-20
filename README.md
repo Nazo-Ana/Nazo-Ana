@@ -33,5 +33,5 @@ Building full-stack apps with React, TypeScript, and FastAPI on the way to found
 
 ## Contact
 
-- LinkedIn: TODO (add your LinkedIn URL)
-- Email: TODO (add your email address)
+- LinkedIn: [linkedin.com/in/nazia-zazai-65302b26a](https://www.linkedin.com/in/nazia-zazai-65302b26a)
+- Email: [naziazazai786@gmail.com](mailto:naziazazai786@gmail.com)
