@@ -1,21 +1,26 @@
 # Nazia Zazai
 
-**Software engineering student, bringing a teaching background to building software.**
+**Software engineering student and future founder, bringing a teaching background to building software.**
 
 ## About
 
 - Software Engineering student at the American University of Afghanistan (AUAF).
-- Online manager at Change English Language Center (CELC), an English language institute in Afghanistan.
+- Online manager at CELC (Change English and Computer Language Center) in Afghanistan.
 - Former English educator with a strong interest in business and marketing.
-- Working in English, Pashto, and Dari. Goal: found a software company.
+- Working in English, Pashto, and Dari. Goal: found a software company within 24 months.
 
 ## Projects
 
+Portfolio: [portfolio-website-eta-one-69.vercel.app](https://portfolio-website-eta-one-69.vercel.app/)
+
 | Project | Problem it solves | Links |
 | --- | --- | --- |
-| **Natural Korea** | Company website with a product catalog and a serverless contact form (validation, spam honeypot, rate limiting, email via Resend). | [Repo](https://github.com/Nazo-Ana/Natural-Korea) · [Live](https://naturalkorea.vercel.app) |
+| **Natural Korea** | Company website for a dietary supplements brand, with a product catalog and a serverless contact form (validation, spam honeypot, rate limiting, email via Resend). | [Repo](https://github.com/Nazo-Ana/Natural-Korea) · [Live](https://www.naturalkorea.company) |
+| **CELC Website** | Public website for CELC (Change English and Computer Language Center): courses, schedule, campuses, results, and enrollment. | [Live](https://celc-website-kappa.vercel.app/) |
 | **Project Management MVP** | Kanban workspace with drag-and-drop cards, SQLite persistence, and an AI assistant that works on the board. Next.js + FastAPI. | [Repo](https://github.com/Nazo-Ana/pm) |
-| **Tongue Twister Game** | Pronunciation practice: listen, record yourself, and get a speech-recognition score with word-by-word feedback. | [Repo](https://github.com/Nazo-Ana/tongue-twister-game) · [Live](https://tongue-twister-game-pi.vercel.app) |
+| **CELC Tongue Twister Challenge** | Pronunciation practice: listen, record yourself, and get a speech-recognition score with word-by-word feedback. | [Repo](https://github.com/Nazo-Ana/tongue-twister-game) · [Live](https://tongue-twister-game-pi.vercel.app) |
+| **Daily Tasks** | Daily task planner with progress tracking and completion stats. React, TypeScript, Tailwind CSS. | [Repo](https://github.com/Nazo-Ana/daily-tasks-app) · [Live](https://daily-tasks-app-xi.vercel.app) |
+| **Neon Pong** | Browser Pong against a computer opponent with three difficulty levels and mouse or keyboard controls. | [Live](https://neon-ponggame.netlify.app/) |
 | **Smart Student Planner** | JavaFX desktop planner for tracking assignments, deadline countdowns, and a weekly timetable. | [Repo](https://github.com/Nazo-Ana/Smart-Student-Planner) |
 
 ## Tech Stack
